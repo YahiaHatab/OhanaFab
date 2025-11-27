@@ -1,0 +1,13 @@
+name = "Fence On Slab! [Forge/Fabric/NeoForge]"
+filename = "fence_on_slab-fabric-1.21-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f331915b2ba0511a8e8f1daccc4212478f71e4f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5497678
+project-id = 1042138

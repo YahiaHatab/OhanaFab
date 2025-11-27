@@ -1,0 +1,13 @@
+name = "OhanaFab"
+author = "Yahia"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ce0032ef363484a1beecc9088f0fd024bd65783b745895ca4f0e0a87c2002cf1"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.21.1"

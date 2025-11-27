@@ -1,0 +1,13 @@
+name = "Iron Bookshelves"
+filename = "ironbookshelves-1.21.1-1.4.11-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd16defbbde298692d6d4d15acb9a3814add327b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6713904
+project-id = 651738

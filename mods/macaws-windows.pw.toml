@@ -1,0 +1,13 @@
+name = "Macaw's Windows"
+filename = "mcw-windows-2.4.0-1.21.1fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "434003a3789606f0874a07c58cf0c645d21e0cdd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6732792
+project-id = 363569
