@@ -1,16 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "9f8e443df6075210eef82f35c5f95db92c19d7b1a1267a4593fa97c079993ed6"
-metafile = true
-
-[[files]]
-file = "complementary-unbound.pw.toml"
-hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
-metafile = true
-
-[[files]]
 file = "mods/SubtleEffects-fabric-1.21.1-1.13.0.jar"
 hash = "feafb38dd65f198189e470f97a638356434dfbf446b6d7d7256809ffe069528e"
 
@@ -504,3 +494,13 @@ hash = "b78848fbd262136b0375aa992e8d8208e8ecc3d1eb0e0c267778151c5ded2659"
 [[files]]
 file = "resourcepacks/Stay Clear V1.1 [1.21.1].zip"
 hash = "8f708c91f0b38a9c3b5ca0f9039f093912a03b4b44bf95249618a729dc8a7565"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "9f8e443df6075210eef82f35c5f95db92c19d7b1a1267a4593fa97c079993ed6"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
+metafile = true
