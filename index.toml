@@ -496,11 +496,9 @@ file = "resourcepacks/Stay Clear V1.1 [1.21.1].zip"
 hash = "8f708c91f0b38a9c3b5ca0f9039f093912a03b4b44bf95249618a729dc8a7565"
 
 [[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "9f8e443df6075210eef82f35c5f95db92c19d7b1a1267a4593fa97c079993ed6"
-metafile = true
+file = "shaderpacks/ComplementaryReimagined_r5.6.1.zip"
+hash = "33153747d25fbee470acb42ccf4f26b03cc551bb900d4c6d3389b5500dd84839"
 
 [[files]]
-file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
-metafile = true
+file = "shaderpacks/ComplementaryUnbound_r5.6.1.zip"
+hash = "1c25b2b917ff6d0a511cf2edd8992e0bc66c950c401020f1b0362646bb3e2952"
