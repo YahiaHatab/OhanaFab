@@ -159,6 +159,11 @@ hash = "2c1d05da2179691fc1c27b53eaf942c32ff1528739a9be5e3a34dd2a92105696"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "212a90f8ab7004e831d3a956c27f8fd522b894569e7e4d36268d894f00cf5583"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "0e28ba15ba1769864a4af0b2f7ffaa3c90017b49633bef2a843b14a46e9a791d"
 metafile = true
@@ -348,6 +353,11 @@ hash = "7c702d1eb46d5c70af78a3414e1a29e610b73975d5ba3826e1bfdb89c3857b39"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "c2fe9a1900ceb3a6014ccb83344aa4ab5ddf65c8bf660044469c3c90c7ed9010"
+metafile = true
+
+[[files]]
 file = "mods/monolib.pw.toml"
 hash = "78edb60c5f000117cb45401be6b3701963d39b79aa9d43043496ac8fc7be5be0"
 metafile = true
@@ -423,6 +433,11 @@ hash = "f4b6a5ff4f63aad21fb0de3165e9dd3f2186fe70f9ae06e663e28b30a75ae4e8"
 metafile = true
 
 [[files]]
+file = "mods/simple-music-control.pw.toml"
+hash = "e9d533f31eda785ac55e4b1492cce4eb17b8ae2b066518416dc15e0224a9b8f6"
+metafile = true
+
+[[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "faa58868fad174ceb591284edd09d114648a2fc69247bea6506cc3ced1399c7b"
 metafile = true
@@ -433,6 +448,11 @@ hash = "f73a48751e13380b87296e5b9627c9f6669efda386bd646fd5c499b344570f46"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "dc64fa7d848e9dbb47917b2512896e28f4b23a0d9a3585aab37fcc5393a272ee"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "d2613d3b3a6e033dc5c7772ce4f2391ff04e802d891a0d4ce23819ef918b6783"
 metafile = true
@@ -440,6 +460,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "e86c6f0670536421a538e1bee2c8ce904bf89d31eb311eb9ee8c344cc849aa9c"
+metafile = true
+
+[[files]]
+file = "mods/text-placeholder-api.pw.toml"
+hash = "605e24df28c2facc0e22397656ff507548b86badc0a8fbc278c72f6ccd3da242"
 metafile = true
 
 [[files]]
